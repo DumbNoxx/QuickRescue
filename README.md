@@ -8,6 +8,13 @@ Mobile application that activates audio recording when volume button is pressed 
 
 ---
 
+## 🚨 Project Status  
+⚠️ **Not Yet Started**  
+This is a planned project. Development has not begun yet. Check back soon for updates!
+
+
+---
+
 ## 🚀 Technologies  
 - **Platform**: React Native  
 - **Framework**: Expo SDK 50  
@@ -44,5 +51,6 @@ Apache 2.0 License - See [LICENSE](LICENSE) for details.
 
 --- 
 
-✨ **Created by Dylan Marcano** - 2025 
+✨ **Created by Dylan Marcano** - 2025
+
 📧 **Contact**: [Website](https://nxus-dev-sphere.vercel.app/)
