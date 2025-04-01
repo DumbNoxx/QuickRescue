@@ -15,11 +15,18 @@ This is a planned project. Development has not begun yet. Check back soon for up
 
 ---
 
-## 🚀 Technologies  
-- **Platform**: React Native  
-- **Framework**: Expo SDK 50  
-- **Language**: TypeScript  
+## 🛠 Tech Stack  
+### Frameworks
+- **React Native** (UI Framework)
+- **Expo** (Development Platform)
 
+### Core Technologies
+- **TypeScript** (Primary Language)
+- **React Hooks** (State Management)
+
+### Target Platforms
+- Android
+- iOS
 ---
 
 ## 📦 Installation  
