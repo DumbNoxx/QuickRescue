@@ -9,10 +9,13 @@ export const PrincipalPage = () => {
       <Text style={styles.titulo}>Como estas? </Text>
       <View style={{ width: 104, margin: "auto" }}>
         <Button
-          title="Presionamsss"
+          title="Presioname"
           onPress={() => Alert.alert("Esto es un boton")}
         />
       </View>
+      <Text style={styles.describe}>
+        Esto es lo que se va hasta ahora, todavia esta en progreso.
+      </Text>
     </View>
   );
 };
@@ -20,9 +23,16 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#fff",
+    flexDirection: "column",
   },
   titulo: {
     textAlign: "center",
     paddingTop: Constants.statusBarHeight + 20,
+  },
+  describe: {
+    width: 120,
+    textAlign: "center",
+    margin: "auto",
+    marginTop: -250,
   },
 });
