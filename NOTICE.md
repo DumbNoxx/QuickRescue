@@ -4,9 +4,9 @@ Licensed under the Apache License, Version 2.0
 
 ---  
 ### Core Technologies  
-- **Expo SDK** (https://expo.dev) - MIT License  
-- **React Native** (https://reactnative.dev) - MIT License  
-- **TypeScript** (https://www.typescriptlang.org) - Apache 2.0 License  
+- [**Expo SDK**](https://expo.dev) - MIT License  
+- [**React Native**](https://reactnative.dev) - MIT License  
+- [**TypeScript**](https://www.typescriptlang.org) - Apache 2.0 License  
 
 ---  
 ### Attribution Requirements  
